@@ -1,1 +1,3 @@
 I’m Pratyush Sinha, an M.S. ECE student at UC Santa Barbara building applied ML systems across agentic RAG, computer vision, RF sensing, and graph/topological deep learning. My work combines ML engineering, signal processing, statistical evaluation, and production-oriented tooling.
+
+<<< PLEASE  FIND THE RESUME ABOVE >>>
